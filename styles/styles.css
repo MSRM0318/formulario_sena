@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+*{
+    margin: 5;
+    padding: 5;
+    text-decoration: none;
+    /* list-style: online;*/
+}
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg);
+    background-size: cover;
+}
+.boton{
+    display: inline-block;
+    background-color: rgba(127, 255, 212, 0.576);
+    border: 1px solid rgb(0, 0, 0);
+    margin: 35px 10px 0px 0px; 
+    padding: 15px 25px;
+    color: rgb(0, 0, 0);
+    border-radius: 80px 20px;
+}
+.boton:hover{
+    background-color: blue;
+    color: aquamarine;
+    }
+.type{
+    display: inline-block;
+    background-color: rgba(127, 255, 212, 0.491);
+    border: 1px solid rgb(0, 0, 0);
+    margin: 35px 10px 0px 0px; 
+    padding: 15px 25px;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+}
